@@ -8,4 +8,4 @@
 <b>5.</b> Úspěšnou instalaci zjistíme v konzoli.
 
 
-<b>Jestliže budete mít nějaký problém. Napište nám na discord <a href="https://discord.com/invite/DgaSZVB">ZDE</a></b>
+<b>Jestliže budete mít nějaký problém. Napište nám na discord <a href="https://discord.com/invite/DgaSZVB" target="_blank">ZDE</a></b>
